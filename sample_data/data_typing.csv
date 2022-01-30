@@ -1,0 +1,505 @@
+ParticipantID,TrialID,Block1,Block2,Condition1,Condition2,wpm,erreurs,Correct words,Keystrokes,Téléphone
+1,1,1,1,Gesture_Gboard,Deux_mains,15,1,8,32,Samsung A7
+1,2,1,1,Gesture_Gboard,Deux_mains,27,2,14,70,Samsung A7
+1,3,1,1,Gesture_Gboard,Deux_mains,26,0,12,63,Samsung A7
+1,4,1,2,Gesture_Gboard,Main_dominante,19,4,10,41,Samsung A7
+1,5,1,2,Gesture_Gboard,Main_dominante,28,2,16,78,Samsung A7
+1,6,1,2,Gesture_Gboard,Main_dominante,29,0,18,74,Samsung A7
+1,7,2,1,Predictive_Gboard,Deux_mains,17,1,9,37,Samsung A7
+1,8,2,1,Predictive_Gboard,Deux_mains,18,2,9,35,Samsung A7
+1,9,2,1,Predictive_Gboard,Deux_mains,16,1,8,35,Samsung A7
+1,10,2,2,Predictive_Gboard,Main_dominante,13,3,7,17,Samsung A7
+1,11,2,2,Predictive_Gboard,Main_dominante,16,3,9,55,Samsung A7
+1,12,2,2,Predictive_Gboard,Main_dominante,17,3,10,58,Samsung A7
+1,13,3,1,Simple,Deux_mains,11,2,5,30,Samsung A7
+1,14,3,1,Simple,Deux_mains,20,1,11,49,Samsung A7
+1,15,3,1,Simple,Deux_mains,23,1,12,47,Samsung A7
+1,16,3,2,Simple,Main_dominante,18,3,10,50,Samsung A7
+1,17,3,2,Simple,Main_dominante,27,1,14,71,Samsung A7
+1,18,3,2,Simple,Main_dominante,27,2,15,75,Samsung A7
+2,19,1,1,Simple,Main_dominante,17,3,9,33,OnePlus5
+2,20,1,1,Simple,Main_dominante,26,2,13,69,OnePlus5
+2,21,1,1,Simple,Main_dominante,26,1,11,67,OnePlus5
+2,22,1,2,Simple,Deux_mains,17,5,11,43,OnePlus5
+2,23,1,2,Simple,Deux_mains,25,1,15,76,OnePlus5
+2,24,1,2,Simple,Deux_mains,27,2,18,78,OnePlus5
+2,25,2,1,Gesture_Gboard,Main_dominante,15,3,10,39,OnePlus5
+2,26,2,1,Gesture_Gboard,Main_dominante,19,1,8,32,OnePlus5
+2,27,2,1,Gesture_Gboard,Main_dominante,18,2,9,31,OnePlus5
+2,28,2,2,Gesture_Gboard,Deux_mains,14,5,7,19,OnePlus5
+2,29,2,2,Gesture_Gboard,Deux_mains,15,3,10,50,OnePlus5
+2,30,2,2,Gesture_Gboard,Deux_mains,19,2,9,53,OnePlus5
+2,31,3,1,Predictive_Gboard,Main_dominante,12,1,6,34,OnePlus5
+2,32,3,1,Predictive_Gboard,Main_dominante,23,2,12,46,OnePlus5
+2,33,3,1,Predictive_Gboard,Main_dominante,21,2,13,49,OnePlus5
+2,34,3,2,Predictive_Gboard,Deux_mains,17,3,11,51,OnePlus5
+2,35,3,2,Predictive_Gboard,Deux_mains,25,2,12,74,OnePlus5
+2,36,3,2,Predictive_Gboard,Deux_mains,29,2,14,71,OnePlus5
+4,55,1,1,Gesture_Gboard,Main_dominante,19,0,10,31,Samsung S20
+4,56,1,1,Gesture_Gboard,Main_dominante,23,0,12,72,Samsung S20
+4,57,1,1,Gesture_Gboard,Main_dominante,30,1,10,69,Samsung S20
+4,58,1,2,Gesture_Gboard,Deux_mains,19,2,11,42,Samsung S20
+4,59,1,2,Gesture_Gboard,Deux_mains,26,2,14,73,Samsung S20
+4,60,1,2,Gesture_Gboard,Deux_mains,28,3,19,75,Samsung S20
+4,61,2,1,Predictive_Gboard,Main_dominante,15,1,11,41,Samsung S20
+4,62,2,1,Predictive_Gboard,Main_dominante,20,2,9,36,Samsung S20
+4,63,2,1,Predictive_Gboard,Main_dominante,21,3,10,32,Samsung S20
+4,64,2,2,Predictive_Gboard,Deux_mains,15,2,8,20,Samsung S20
+4,65,2,2,Predictive_Gboard,Deux_mains,18,1,11,53,Samsung S20
+4,66,2,2,Predictive_Gboard,Deux_mains,19,3,8,54,Samsung S20
+4,67,3,1,Simple,Main_dominante,15,2,8,36,Samsung S20
+4,68,3,1,Simple,Main_dominante,22,3,12,48,Samsung S20
+4,69,3,1,Simple,Main_dominante,20,2,10,52,Samsung S20
+4,70,3,2,Simple,Deux_mains,19,1,11,55,Samsung S20
+4,71,3,2,Simple,Deux_mains,23,1,12,70,Samsung S20
+4,72,3,2,Simple,Deux_mains,28,3,15,76,Samsung S20
+5,73,1,1,Simple,Deux_mains,12,5,7,31,Samsung Galaxy A7
+5,74,1,1,Simple,Deux_mains,21,2,12,53,Samsung Galaxy A7
+5,75,1,1,Simple,Deux_mains,19,2,9,48,Samsung Galaxy A7
+5,76,1,2,Simple,Main_dominante,19,1,12,48,Samsung Galaxy A7
+5,77,1,2,Simple,Main_dominante,20,1,11,50,Samsung Galaxy A7
+5,78,1,2,Simple,Main_dominante,26,0,12,66,Samsung Galaxy A7
+5,79,2,1,Gesture_Gboard,Deux_mains,6,2,4,14,Samsung Galaxy A7
+5,80,2,1,Gesture_Gboard,Deux_mains,19,1,9,47,Samsung Galaxy A7
+5,81,2,1,Gesture_Gboard,Deux_mains,20,1,11,51,Samsung Galaxy A7
+5,82,2,2,Gesture_Gboard,Main_dominante,9,4,6,23,Samsung Galaxy A7
+5,83,2,2,Gesture_Gboard,Main_dominante,16,4,9,41,Samsung Galaxy A7
+5,84,2,2,Gesture_Gboard,Main_dominante,15,1,9,38,Samsung Galaxy A7
+5,85,3,1,Predictive_Gboard,Deux_mains,21,4,10,52,Samsung Galaxy A7
+5,86,3,1,Predictive_Gboard,Deux_mains,22,1,12,56,Samsung Galaxy A7
+5,87,3,1,Predictive_Gboard,Deux_mains,16,3,11,39,Samsung Galaxy A7
+5,88,3,2,Predictive_Gboard,Main_dominante,14,3,11,36,Samsung Galaxy A7
+5,89,3,2,Predictive_Gboard,Main_dominante,14,3,8,36,Samsung Galaxy A7
+5,90,3,2,Predictive_Gboard,Main_dominante,18,0,9,46,Samsung Galaxy A7
+6,91,1,1,Predictive_Gboard,Main_dominante,18,2,9,44,Samsung Galaxy A7
+6,92,1,1,Predictive_Gboard,Main_dominante,24,4,13,61,Samsung Galaxy A7
+6,93,1,1,Predictive_Gboard,Main_dominante,20,4,11,51,Samsung Galaxy A7
+6,94,1,2,Predictive_Gboard,Deux_mains,34,3,19,86,Samsung Galaxy A7
+6,95,1,2,Predictive_Gboard,Deux_mains,35,4,15,88,Samsung Galaxy A7
+6,96,1,2,Predictive_Gboard,Deux_mains,28,5,15,70,Samsung Galaxy A7
+6,97,2,1,Simple,Main_dominante,24,4,11,60,Samsung Galaxy A7
+6,98,2,1,Simple,Main_dominante,28,2,14,71,Samsung Galaxy A7
+6,99,2,1,Simple,Main_dominante,27,4,12,67,Samsung Galaxy A7
+6,100,2,2,Simple,Deux_mains,28,4,14,70,Samsung Galaxy A7
+6,101,2,2,Simple,Deux_mains,28,7,15,70,Samsung Galaxy A7
+6,102,2,2,Simple,Deux_mains,45,3,23,112,Samsung Galaxy A7
+6,103,3,1,Gesture_Gboard,Main_dominante,17,3,10,42,Samsung Galaxy A7
+6,104,3,1,Gesture_Gboard,Main_dominante,28,3,15,71,Samsung Galaxy A7
+6,105,3,1,Gesture_Gboard,Main_dominante,23,3,13,58,Samsung Galaxy A7
+6,106,3,2,Gesture_Gboard,Deux_mains,27,2,19,67,Samsung Galaxy A7
+6,107,3,2,Gesture_Gboard,Deux_mains,24,5,13,59,Samsung Galaxy A7
+6,108,3,2,Gesture_Gboard,Deux_mains,24,4,13,59,Samsung Galaxy A7
+9,145,1,1,Predictive_Gboard,Deux_mains,21,0,12,52,iphone XR
+9,146,1,1,Predictive_Gboard,Deux_mains,14,2,9,36,iphone XR
+9,147,1,1,Predictive_Gboard,Deux_mains,20,2,7,50,iphone XR
+9,148,1,2,Predictive_Gboard,Main_dominante,13,0,7,32,iphone XR
+9,149,1,2,Predictive_Gboard,Main_dominante,16,1,8,40,iphone XR
+9,150,1,2,Predictive_Gboard,Main_dominante,13,2,7,33,iphone XR
+9,151,2,1,Simple,Deux_mains,28,3,14,71,iphone XR
+9,152,2,1,Simple,Deux_mains,20,3,9,49,iphone XR
+9,153,2,1,Simple,Deux_mains,25,0,12,62,samsung A71
+9,154,2,2,Simple,Main_dominante,10,3,7,25,samsung A71
+9,155,2,2,Simple,Main_dominante,20,1,11,50,samsung A71
+9,156,2,2,Simple,Main_dominante,12,1,7,30,samsung A71
+9,157,3,1,Gesture_Gboard,Deux_mains,4,1,2,11,samsung A71
+9,158,3,1,Gesture_Gboard,Deux_mains,3,3,2,8,samsung A71
+9,159,3,1,Gesture_Gboard,Deux_mains,9,1,5,22,samsung A71
+9,160,3,2,Gesture_Gboard,Main_dominante,14,1,6,34,samsung A71
+9,161,3,2,Gesture_Gboard,Main_dominante,6,1,5,15,samsung A71
+9,162,3,2,Gesture_Gboard,Main_dominante,16,1,10,41,samsung A71
+10,163,1,1,Gesture_Gboard,Main_dominante,18,1,11,46,samsung A71
+10,164,1,1,Gesture_Gboard,Main_dominante,19,1,9,48,samsung A71
+10,165,1,1,Gesture_Gboard,Main_dominante,13,3,10,32,samsung A71
+10,166,1,2,Gesture_Gboard,Deux_mains,19,1,13,47,samsung A71
+10,167,1,2,Gesture_Gboard,Deux_mains,15,1,9,38,samsung A71
+10,168,1,2,Gesture_Gboard,Deux_mains,21,1,12,53,samsung A71
+10,169,2,1,Predictive_Gboard,Main_dominante,20,4,11,50,samsung A71
+10,170,2,1,Predictive_Gboard,Main_dominante,22,1,12,56,samsung A71
+10,171,2,1,Predictive_Gboard,Main_dominante,19,2,11,47,samsung A71
+10,172,2,2,Predictive_Gboard,Deux_mains,36,1,17,90,samsung A71
+10,173,2,2,Predictive_Gboard,Deux_mains,24,4,11,60,samsung A71
+10,174,2,2,Predictive_Gboard,Deux_mains,26,3,15,66,samsung A71
+10,175,3,1,Simple,Main_dominante,20,1,12,50,samsung A71
+10,176,3,1,Simple,Main_dominante,22,1,15,55,samsung A71
+10,177,3,1,Simple,Main_dominante,16,1,9,41,samsung A71
+10,178,3,2,Simple,Deux_mains,26,2,13,65,samsung A71
+10,179,3,2,Simple,Deux_mains,38,2,18,95,samsung A71
+10,180,3,2,Simple,Deux_mains,34,3,19,84,samsung A71
+13,217,1,1,Gesture_Gboard,Deux_mains,24,1,13,61,Oneplus 6
+13,218,1,1,Gesture_Gboard,Deux_mains,11,3,7,28,Oneplus 6
+13,219,1,1,Gesture_Gboard,Deux_mains,11,3,8,28,Oneplus 6
+13,220,1,2,Gesture_Gboard,Main_dominante,21,1,12,53,Oneplus 6
+13,221,1,2,Gesture_Gboard,Main_dominante,8,2,4,19,Oneplus 6
+13,222,1,2,Gesture_Gboard,Main_dominante,11,3,8,27,Oneplus 6
+13,223,2,1,Predictive_Gboard,Deux_mains,37,7,21,93,Oneplus 6
+13,224,2,1,Predictive_Gboard,Deux_mains,34,10,22,90,Oneplus 6
+13,225,2,1,Predictive_Gboard,Deux_mains,31,9,16,78,Oneplus 6
+13,226,2,2,Predictive_Gboard,Main_dominante,28,4,17,69,Oneplus 6
+13,227,2,2,Predictive_Gboard,Main_dominante,28,3,16,70,Oneplus 6
+13,228,2,2,Predictive_Gboard,Main_dominante,25,4,13,62,Oneplus 6
+13,229,3,1,Simple,Deux_mains,24,9,9,61,Oneplus 6
+13,230,3,1,Simple,Deux_mains,26,8,12,64,Oneplus 6
+13,231,3,1,Simple,Deux_mains,25,8,10,62,Oneplus 6
+13,232,3,2,Simple,Main_dominante,20,7,8,47,Oneplus 6
+13,233,3,2,Simple,Main_dominante,19,6,7,43,Oneplus 6
+13,234,3,2,Simple,Main_dominante,21,6,8,48,Oneplus 6
+20,343,1,1,Simple,Main_dominante,13,5,8,36,Xiaomi redmi10
+20,344,1,1,Simple,Main_dominante,24,4,12,54,Xiaomi redmi10
+20,345,1,1,Simple,Main_dominante,19,2,9,48,Xiaomi redmi10
+20,346,1,2,Simple,Deux_mains,21,2,12,49,Xiaomi redmi10
+20,347,1,2,Simple,Deux_mains,20,1,11,51,Xiaomi redmi10
+20,348,1,2,Simple,Deux_mains,24,0,12,66,Xiaomi redmi10
+20,349,2,1,Gesture_Gboard,Main_dominante,6,2,5,14,Xiaomi redmi10
+20,350,2,1,Gesture_Gboard,Main_dominante,19,2,9,46,Xiaomi redmi10
+20,351,2,1,Gesture_Gboard,Main_dominante,20,1,11,51,Xiaomi redmi10
+20,352,2,2,Gesture_Gboard,Deux_mains,9,3,8,23,Xiaomi redmi10
+20,353,2,2,Gesture_Gboard,Deux_mains,18,4,9,41,Xiaomi redmi10
+20,354,2,2,Gesture_Gboard,Deux_mains,15,1,11,38,Xiaomi redmi10
+20,355,3,1,Predictive_Gboard,Main_dominante,21,4,10,52,Xiaomi redmi10
+20,356,3,1,Predictive_Gboard,Main_dominante,22,1,12,52,Xiaomi redmi10
+20,357,3,1,Predictive_Gboard,Main_dominante,17,2,12,39,Xiaomi redmi10
+20,358,3,2,Predictive_Gboard,Deux_mains,14,3,11,38,Xiaomi redmi10
+20,359,3,2,Predictive_Gboard,Deux_mains,14,3,8,36,Xiaomi redmi10
+20,360,3,2,Predictive_Gboard,Deux_mains,18,0,10,46,Xiaomi redmi10
+21,361,1,1,Predictive_Gboard,Deux_mains,18,2,9,48,Xiaomi redmi10
+21,362,1,1,Predictive_Gboard,Deux_mains,24,3,13,61,Xiaomi redmi10
+21,363,1,1,Predictive_Gboard,Deux_mains,20,4,11,51,Xiaomi redmi10
+21,364,1,2,Predictive_Gboard,Main_dominante,34,3,19,84,Xiaomi redmi10
+21,365,1,2,Predictive_Gboard,Main_dominante,35,3,15,88,Xiaomi redmi10
+21,366,1,2,Predictive_Gboard,Main_dominante,28,5,15,70,Xiaomi redmi10
+21,367,2,1,Simple,Deux_mains,23,4,11,60,Xiaomi redmi10
+21,368,2,1,Simple,Deux_mains,25,2,14,71,Xiaomi redmi10
+21,369,2,1,Simple,Deux_mains,27,4,12,66,Xiaomi redmi10
+21,370,2,2,Simple,Main_dominante,28,4,15,72,Xiaomi redmi10
+21,371,2,2,Simple,Main_dominante,26,7,15,70,Xiaomi redmi10
+21,372,2,2,Simple,Main_dominante,41,2,23,112,Xiaomi redmi10
+21,373,3,1,Gesture_Gboard,Deux_mains,17,3,10,42,Xiaomi redmi10
+21,374,3,1,Gesture_Gboard,Deux_mains,24,4,16,71,Xiaomi redmi10
+21,375,3,1,Gesture_Gboard,Deux_mains,23,3,13,58,Xiaomi redmi10
+21,376,3,2,Gesture_Gboard,Main_dominante,27,2,19,66,Xiaomi redmi10
+21,377,3,2,Gesture_Gboard,Main_dominante,26,5,13,59,Xiaomi redmi10
+21,378,3,2,Gesture_Gboard,Main_dominante,15,2,15,40,Xiaomi redmi10
+23,397,1,1,Simple,Deux_mains,28,6,18,71,Google Pixel 6
+23,398,1,1,Simple,Deux_mains,37,5,17,93,Google Pixel 6
+23,399,1,1,Simple,Deux_mains,33,4,17,83,Google Pixel 6
+23,400,1,2,Simple,Main_dominante,29,1,15,72,Google Pixel 6
+23,401,1,2,Simple,Main_dominante,24,2,14,61,Google Pixel 6
+23,402,1,2,Simple,Main_dominante,21,4,15,52,Google Pixel 6
+23,403,2,1,Gesture_Gboard,Deux_mains,20,3,11,51,Google Pixel 6
+23,404,2,1,Gesture_Gboard,Deux_mains,11,2,8,28,Google Pixel 6
+23,405,2,1,Gesture_Gboard,Deux_mains,21,4,12,52,Google Pixel 6
+23,406,2,2,Gesture_Gboard,Main_dominante,25,1,15,63,Google Pixel 6
+23,407,2,2,Gesture_Gboard,Main_dominante,28,1,11,71,Google Pixel 6
+23,408,2,2,Gesture_Gboard,Main_dominante,19,3,12,48,Google Pixel 6
+23,409,3,1,Predictive_Gboard,Deux_mains,50,7,22,125,Google Pixel 6
+23,410,3,1,Predictive_Gboard,Deux_mains,45,4,25,112,Google Pixel 6
+23,411,3,1,Predictive_Gboard,Deux_mains,49,5,25,123,Google Pixel 6
+23,412,3,2,Predictive_Gboard,Main_dominante,31,5,24,77,Google Pixel 6
+23,413,3,2,Predictive_Gboard,Main_dominante,20,6,12,50,Google Pixel 6
+23,414,3,2,Predictive_Gboard,Main_dominante,29,3,16,73,Google Pixel 6
+24,415,1,1,Predictive_Gboard,Main_dominante,19,2,14,47,Redmi Note 8
+24,416,1,1,Predictive_Gboard,Main_dominante,22,4,12,56,Redmi Note 9
+24,417,1,1,Predictive_Gboard,Main_dominante,14,4,10,35,Redmi Note 10
+24,418,1,2,Predictive_Gboard,Deux_mains,27,2,17,67,Redmi Note 11
+24,419,1,2,Predictive_Gboard,Deux_mains,26,1,21,66,Redmi Note 12
+24,420,1,2,Predictive_Gboard,Deux_mains,28,4,18,71,Redmi Note 13
+24,421,2,1,Simple,Main_dominante,21,2,11,53,Redmi Note 14
+24,422,2,1,Simple,Main_dominante,21,2,9,53,Redmi Note 15
+24,423,2,1,Simple,Main_dominante,12,2,6,29,Redmi Note 16
+24,424,2,2,Simple,Deux_mains,22,3,12,56,Redmi Note 17
+24,425,2,2,Simple,Deux_mains,23,1,11,58,Redmi Note 18
+24,426,2,2,Simple,Deux_mains,23,2,13,58,Redmi Note 19
+24,427,3,1,Gesture_Gboard,Main_dominante,7,3,7,17,Redmi Note 20
+24,428,3,1,Gesture_Gboard,Main_dominante,12,1,8,30,Redmi Note 21
+24,429,3,1,Gesture_Gboard,Main_dominante,11,3,8,28,Redmi Note 22
+24,430,3,2,Gesture_Gboard,Deux_mains,7,2,4,17,Redmi Note 23
+24,431,3,2,Gesture_Gboard,Deux_mains,9,1,5,22,Redmi Note 24
+24,432,3,2,Gesture_Gboard,Deux_mains,7,1,5,18,Redmi Note 25
+25,433,1,1,Gesture_Gboard,Deux_mains,17,1,8,43,Xiaomi MI 10T LITE
+25,434,1,1,Gesture_Gboard,Deux_mains,12,3,5,31,Xiaomi MI 10T LITE
+25,435,1,1,Gesture_Gboard,Deux_mains,24,1,13,61,Xiaomi MI 10T LITE
+25,436,1,2,Gesture_Gboard,Main_dominante,25,3,13,62,Xiaomi MI 10T LITE
+25,437,1,2,Gesture_Gboard,Main_dominante,20,2,12,49,Xiaomi MI 10T LITE
+25,438,1,2,Gesture_Gboard,Main_dominante,20,2,11,51,Xiaomi MI 10T LITE
+25,439,2,1,Predictive_Gboard,Deux_mains,39,1,21,98,Xiaomi MI 10T LITE
+25,440,2,1,Predictive_Gboard,Deux_mains,43,3,21,107,Xiaomi MI 10T LITE
+25,441,2,1,Predictive_Gboard,Deux_mains,44,4,22,110,Xiaomi MI 10T LITE
+25,442,2,2,Predictive_Gboard,Main_dominante,15,3,9,38,Xiaomi MI 10T LITE
+25,443,2,2,Predictive_Gboard,Main_dominante,22,3,14,54,Xiaomi MI 10T LITE
+25,444,2,2,Predictive_Gboard,Main_dominante,25,3,13,62,Xiaomi MI 10T LITE
+25,445,3,1,Simple,Deux_mains,34,0,19,84,Xiaomi MI 10T LITE
+25,446,3,1,Simple,Deux_mains,30,4,19,76,Xiaomi MI 10T LITE
+25,447,3,1,Simple,Deux_mains,28,5,14,71,Xiaomi MI 10T LITE
+25,448,3,2,Simple,Main_dominante,17,5,11,42,Xiaomi MI 10T LITE
+25,449,3,2,Simple,Main_dominante,26,0,15,66,Xiaomi MI 10T LITE
+25,450,3,2,Simple,Main_dominante,25,2,12,62,Xiaomi MI 10T LITE
+28,487,1,1,Gesture_Gboard,Main_dominante,13,2,7,33,S20+
+28,488,1,1,Gesture_Gboard,Main_dominante,22,2,12,55,S20+
+28,489,1,1,Gesture_Gboard,Main_dominante,18,2,9,46,S20+
+28,490,1,2,Gesture_Gboard,Deux_mains,21,1,15,52,S20+
+28,491,1,2,Gesture_Gboard,Deux_mains,27,0,13,68,S20+
+28,492,1,2,Gesture_Gboard,Deux_mains,10,2,7,26,S20+
+28,493,2,1,Predictive_Gboard,Main_dominante,30,2,16,74,S20+
+28,494,2,1,Predictive_Gboard,Main_dominante,24,6,17,60,S20+
+28,495,2,1,Predictive_Gboard,Main_dominante,28,8,16,70,S20+
+28,496,2,2,Predictive_Gboard,Deux_mains,45,9,19,113,S20+
+28,497,2,2,Predictive_Gboard,Deux_mains,37,10,22,93,S20+
+28,498,2,2,Predictive_Gboard,Deux_mains,36,7,20,90,S20+
+28,499,3,1,Simple,Main_dominante,23,3,13,58,S20+
+28,500,3,1,Simple,Main_dominante,14,5,7,36,S20+
+28,501,3,1,Simple,Main_dominante,32,1,21,81,S20+
+28,502,3,2,Simple,Deux_mains,30,2,17,76,S20+
+28,503,3,2,Simple,Deux_mains,42,5,20,106,S20+
+28,504,3,2,Simple,Deux_mains,52,2,22,129,S20+
+30,529,2,1,Simple,Main_dominante,24,1,11,59,Honor 9
+30,530,2,1,Simple,Main_dominante,22,1,13,56,Honor 9
+30,531,2,1,Simple,Main_dominante,20,2,11,51,Honor 9
+30,532,2,2,Simple,Deux_mains,28,3,16,70,Honor 9
+30,533,2,2,Simple,Deux_mains,26,3,14,64,Honor 9
+30,534,2,2,Simple,Deux_mains,28,3,14,70,Honor 9
+30,535,3,1,Gesture_Gboard,Main_dominante,21,5,12,53,Honor 9
+30,536,3,1,Gesture_Gboard,Main_dominante,18,5,11,46,Honor 9
+30,537,3,1,Gesture_Gboard,Main_dominante,19,3,9,47,Honor 9
+30,538,3,2,Gesture_Gboard,Deux_mains,22,5,12,56,Honor 9
+30,539,3,2,Gesture_Gboard,Deux_mains,22,4,13,58,Honor 9
+30,540,3,2,Gesture_Gboard,Deux_mains,24,5,12,57,Honor 9
+30,524,1,1,Predictive_Gboard,Main_dominante,28,5,14,71,Honor 9
+30,525,1,1,Predictive_Gboard,Main_dominante,27,5,12,67,Honor 9
+30,526,1,2,Predictive_Gboard,Deux_mains,37,8,17,93,Honor 9
+30,527,1,2,Predictive_Gboard,Deux_mains,35,7,18,94,Honor 9
+30,528,1,2,Predictive_Gboard,Deux_mains,31,4,20,77,Honor 9
+30,523,1,1,Predictive_Gboard,Main_dominante,26,4,12,66,Honor 9
+38,667,1,1,Simple,Main_dominante,11,1,8,28,Oppo X3 lite
+38,668,1,1,Simple,Main_dominante,17,2,10,42,Oppo X3 lite
+38,669,1,1,Simple,Main_dominante,12,3,5,29,Oppo X3 lite
+38,670,1,2,Simple,Deux_mains,21,0,12,53,Oppo X3 lite
+38,671,1,2,Simple,Deux_mains,20,3,12,50,Oppo X3 lite
+38,672,1,2,Simple,Deux_mains,31,1,24,77,Oppo X3 lite
+38,673,2,1,Gesture_Gboard,Main_dominante,10,4,7,25,Oppo X3 lite
+38,674,2,1,Gesture_Gboard,Main_dominante,9,2,4,22,Oppo X3 lite
+38,675,2,1,Gesture_Gboard,Main_dominante,13,1,7,33,Oppo X3 lite
+38,676,2,2,Gesture_Gboard,Deux_mains,16,2,8,39,Oppo X3 lite
+38,677,2,2,Gesture_Gboard,Deux_mains,16,1,9,40,Oppo X3 lite
+38,678,2,2,Gesture_Gboard,Deux_mains,15,2,5,38,Oppo X3 lite
+38,679,3,1,Predictive_Gboard,Main_dominante,17,1,10,35,Oppo X3 lite
+38,680,3,1,Predictive_Gboard,Main_dominante,24,3,14,59,Oppo X3 lite
+38,681,3,1,Predictive_Gboard,Main_dominante,28,3,16,75,Oppo X3 lite
+38,682,3,2,Predictive_Gboard,Deux_mains,23,4,12,60,Oppo X3 lite
+38,683,3,2,Predictive_Gboard,Deux_mains,24,5,16,62,Oppo X3 lite
+38,684,3,2,Predictive_Gboard,Deux_mains,26,3,14,67,Oppo X3 lite
+39,685,1,1,Predictive_Gboard,Deux_mains,28,4,14,70,Oppo X3 lite
+39,686,1,1,Predictive_Gboard,Deux_mains,27,2,12,67,Oppo X3 lite
+39,687,1,1,Predictive_Gboard,Deux_mains,31,1,22,77,Oppo X3 lite
+39,688,1,2,Predictive_Gboard,Main_dominante,21,3,12,53,Oppo X3 lite
+39,689,1,2,Predictive_Gboard,Main_dominante,25,1,14,62,Oppo X3 lite
+39,690,1,2,Predictive_Gboard,Main_dominante,22,2,12,55,Oppo X3 lite
+39,691,2,1,Simple,Deux_mains,31,1,18,78,Oppo X3 lite
+39,692,2,1,Simple,Deux_mains,28,5,20,70,Oppo X3 lite
+39,693,2,1,Simple,Deux_mains,33,3,18,82,Oppo X3 lite
+39,694,2,2,Simple,Main_dominante,22,2,16,54,Oppo X3 lite
+39,695,2,2,Simple,Main_dominante,13,2,9,33,Oppo X3 lite
+39,696,2,2,Simple,Main_dominante,20,0,12,49,Oppo X3 lite
+39,697,3,1,Gesture_Gboard,Deux_mains,11,2,5,27,Oppo X3 lite
+39,698,3,1,Gesture_Gboard,Deux_mains,6,3,3,15,Oppo X3 lite
+39,699,3,1,Gesture_Gboard,Deux_mains,13,3,7,33,Oppo X3 lite
+39,700,3,2,Gesture_Gboard,Main_dominante,14,3,7,36,Oppo X3 lite
+39,701,3,2,Gesture_Gboard,Main_dominante,11,2,8,28,Oppo X3 lite
+39,702,3,2,Gesture_Gboard,Main_dominante,17,1,10,42,Oppo X3 lite
+40,703,1,1,Gesture_Gboard,Main_dominante,14,0,7,35,Oppo X3 lite
+40,704,1,1,Gesture_Gboard,Main_dominante,13,1,8,32,Oppo X3 lite
+40,705,1,1,Gesture_Gboard,Main_dominante,12,1,7,30,Oppo X3 lite
+40,706,1,2,Gesture_Gboard,Deux_mains,11,1,8,42,Oppo X3 lite
+40,707,1,2,Gesture_Gboard,Deux_mains,13,3,9,33,Oppo X3 lite
+40,708,1,2,Gesture_Gboard,Deux_mains,17,2,10,42,Oppo X3 lite
+40,709,2,1,Predictive_Gboard,Main_dominante,21,0,10,52,Oppo X3 lite
+40,710,2,1,Predictive_Gboard,Main_dominante,24,3,9,59,Oppo X3 lite
+40,711,2,1,Predictive_Gboard,Main_dominante,25,1,12,62,Oppo X3 lite
+40,712,2,2,Predictive_Gboard,Deux_mains,29,3,15,73,Oppo X3 lite
+40,713,2,2,Predictive_Gboard,Deux_mains,24,3,11,59,Oppo X3 lite
+40,714,2,2,Predictive_Gboard,Deux_mains,30,5,21,75,Oppo X3 lite
+40,715,3,1,Simple,Main_dominante,16,1,9,39,Oppo X3 lite
+40,716,3,1,Simple,Main_dominante,19,1,12,48,Oppo X3 lite
+40,717,3,1,Simple,Main_dominante,22,3,11,56,Oppo X3 lite
+40,718,3,2,Simple,Deux_mains,13,2,7,33,Oppo X3 lite
+40,719,3,2,Simple,Deux_mains,22,1,13,56,Oppo X3 lite
+40,720,3,2,Simple,Deux_mains,24,3,11,59,Oppo X3 lite
+41,721,1,1,Simple,Deux_mains,12,3,7,31,Oppo X3 lite
+41,722,1,1,Simple,Deux_mains,35,2,15,88,Oppo X3 lite
+41,723,1,1,Simple,Deux_mains,17,2,7,43,Oppo X3 lite
+41,724,1,2,Simple,Main_dominante,20,5,11,51,Oppo X3 lite
+41,725,1,2,Simple,Main_dominante,17,4,10,43,Oppo X3 lite
+41,726,1,2,Simple,Main_dominante,16,7,11,39,Oppo X3 lite
+41,727,2,1,Gesture_Gboard,Deux_mains,20,2,9,51,Oppo X3 lite
+41,728,2,1,Gesture_Gboard,Deux_mains,19,2,9,47,Oppo X3 lite
+41,729,2,1,Gesture_Gboard,Deux_mains,15,3,11,38,Oppo X3 lite
+41,730,2,2,Gesture_Gboard,Main_dominante,24,3,11,60,Oppo X3 lite
+41,731,2,2,Gesture_Gboard,Main_dominante,25,2,13,62,Oppo X3 lite
+41,732,2,2,Gesture_Gboard,Main_dominante,26,0,14,66,Oppo X3 lite
+41,733,3,1,Predictive_Gboard,Deux_mains,14,3,8,36,Oppo X3 lite
+41,734,3,1,Predictive_Gboard,Deux_mains,18,2,10,46,Oppo X3 lite
+41,735,3,1,Predictive_Gboard,Deux_mains,22,4,12,55,Oppo X3 lite
+41,736,3,2,Predictive_Gboard,Main_dominante,11,3,8,27,Oppo X3 lite
+41,737,3,2,Predictive_Gboard,Main_dominante,26,4,12,66,Oppo X3 lite
+41,738,3,2,Predictive_Gboard,Main_dominante,11,3,7,30,Oppo X3 lite
+42,739,1,1,Predictive_Gboard,Main_dominante,24,3,13,59,Samsung Galaxy S10
+42,740,1,1,Predictive_Gboard,Main_dominante,22,2,12,56,Samsung Galaxy S10
+42,741,1,1,Predictive_Gboard,Main_dominante,30,2,15,74,Samsung Galaxy S10
+42,742,1,2,Predictive_Gboard,Deux_mains,26,6,13,65,Samsung Galaxy S10
+42,743,1,2,Predictive_Gboard,Deux_mains,38,4,21,94,Samsung Galaxy S10
+42,744,1,2,Predictive_Gboard,Deux_mains,34,8,16,85,Samsung Galaxy S10
+42,745,2,1,Simple,Main_dominante,27,1,14,67,Samsung Galaxy S10
+42,746,2,1,Simple,Main_dominante,21,2,15,52,Samsung Galaxy S10
+42,747,2,1,Simple,Main_dominante,22,2,12,56,Samsung Galaxy S10
+42,748,2,2,Simple,Deux_mains,35,0,18,87,Samsung Galaxy S10
+42,749,2,2,Simple,Deux_mains,36,0,18,89,Samsung Galaxy S10
+42,750,2,2,Simple,Deux_mains,32,2,21,81,Samsung Galaxy S10
+42,751,3,1,Gesture_Gboard,Main_dominante,19,2,10,48,Samsung Galaxy S10
+42,752,3,1,Gesture_Gboard,Main_dominante,28,2,14,70,Samsung Galaxy S10
+42,753,3,1,Gesture_Gboard,Main_dominante,26,2,14,64,Samsung Galaxy S10
+42,754,3,2,Gesture_Gboard,Deux_mains,25,1,13,62,Samsung Galaxy S10
+42,755,3,2,Gesture_Gboard,Deux_mains,28,2,14,71,Samsung Galaxy S10
+42,756,3,2,Gesture_Gboard,Deux_mains,11,2,8,27,Samsung Galaxy S10
+44,775,1,1,Simple,Main_dominante,22,1,11,56,Redmi Note 6 Pro 
+44,776,1,1,Simple,Main_dominante,17,1,10,42,Redmi Note 6 Pro 
+44,777,1,1,Simple,Main_dominante,22,1,12,56,Redmi Note 6 Pro 
+44,778,1,2,Simple,Deux_mains,29,0,16,72,Redmi Note 6 Pro 
+44,779,1,2,Simple,Deux_mains,18,1,11,44,Redmi Note 6 Pro 
+44,780,1,2,Simple,Deux_mains,21,1,12,53,Redmi Note 6 Pro 
+44,781,2,1,Gesture_Gboard,Main_dominante,11,1,7,28,Redmi Note 6 Pro 
+44,782,2,1,Gesture_Gboard,Main_dominante,14,0,11,36,Redmi Note 6 Pro 
+44,783,2,1,Gesture_Gboard,Main_dominante,13,2,10,32,Redmi Note 6 Pro 
+44,784,2,2,Gesture_Gboard,Deux_mains,10,1,10,26,Redmi Note 6 Pro 
+44,785,2,2,Gesture_Gboard,Deux_mains,15,0,15,37,Redmi Note 6 Pro 
+44,786,2,2,Gesture_Gboard,Deux_mains,16,1,16,40,Redmi Note 6 Pro 
+44,787,3,1,Predictive_Gboard,Main_dominante,14,0,7,35,Redmi Note 6 Pro 
+44,788,3,1,Predictive_Gboard,Main_dominante,13,0,7,32,Redmi Note 6 Pro 
+44,789,3,1,Predictive_Gboard,Main_dominante,17,1,9,43,Redmi Note 6 Pro 
+44,790,3,2,Predictive_Gboard,Deux_mains,20,1,11,50,Redmi Note 6 Pro 
+44,791,3,2,Predictive_Gboard,Deux_mains,18,0,10,45,Redmi Note 6 Pro 
+44,792,3,2,Predictive_Gboard,Deux_mains,22,0,12,56,Redmi Note 6 Pro 
+46,811,1,1,Predictive_Gboard,Main_dominante,17,2,10,42,oneplus 5 
+46,812,1,1,Predictive_Gboard,Main_dominante,18,2,12,42,oneplus 5 
+46,813,1,1,Predictive_Gboard,Main_dominante,20,3,11,46,oneplus 5 
+46,814,1,2,Predictive_Gboard,Deux_mains,22,2,12,52,oneplus 5 
+46,815,1,2,Predictive_Gboard,Deux_mains,24,1,11,56,oneplus 5 
+46,816,1,2,Predictive_Gboard,Deux_mains,22,4,12,60,oneplus 5 
+46,817,2,1,Simple,Main_dominante,20,1,14,55,oneplus 5 
+46,818,2,1,Simple,Main_dominante,19,0,11,50,oneplus 5 
+46,819,2,1,Simple,Main_dominante,24,1,13,47,oneplus 5 
+46,820,2,2,Simple,Deux_mains,24,2,13,59,oneplus 5 
+46,821,2,2,Simple,Deux_mains,16,3,8,39,oneplus 5 
+46,822,2,2,Simple,Deux_mains,21,5,15,52,oneplus 5 
+46,823,3,1,Gesture_Gboard,Main_dominante,9,1,5,23,oneplus 5 
+46,824,3,1,Gesture_Gboard,Main_dominante,11,1,7,28,oneplus 5 
+46,825,3,1,Gesture_Gboard,Main_dominante,11,1,8,27,oneplus 5 
+46,826,3,2,Gesture_Gboard,Deux_mains,18,1,10,46,oneplus 5 
+46,827,3,2,Gesture_Gboard,Deux_mains,5,3,3,12,oneplus 5 
+46,828,3,2,Gesture_Gboard,Deux_mains,19,2,11,42,oneplus 5 
+47,829,1,1,Gesture_Gboard,Deux_mains,15,2,10,37,oneplus 5 
+47,830,1,1,Gesture_Gboard,Deux_mains,10,3,6,25,oneplus 5 
+47,831,1,1,Gesture_Gboard,Deux_mains,11,1,8,27,oneplus 5 
+47,832,1,2,Gesture_Gboard,Main_dominante,12,1,6,31,oneplus 5 
+47,833,1,2,Gesture_Gboard,Main_dominante,20,0,10,49,oneplus 5 
+47,834,1,2,Gesture_Gboard,Main_dominante,16,1,10,40,oneplus 5 
+47,835,2,1,Predictive_Gboard,Deux_mains,21,2,12,52,oneplus 5 
+47,836,2,1,Predictive_Gboard,Deux_mains,21,5,12,52,oneplus 5 
+47,837,2,1,Predictive_Gboard,Deux_mains,26,5,14,65,oneplus 5 
+47,838,2,2,Predictive_Gboard,Main_dominante,34,5,23,86,oneplus 5 
+47,839,2,2,Predictive_Gboard,Main_dominante,37,4,24,93,oneplus 5 
+47,840,2,2,Predictive_Gboard,Main_dominante,27,4,12,67,oneplus 5 
+47,841,3,1,Simple,Deux_mains,16,2,11,39,oneplus 5 
+47,842,3,1,Simple,Deux_mains,20,2,10,50,oneplus 5 
+47,843,3,1,Simple,Deux_mains,23,0,13,58,oneplus 5 
+47,844,3,2,Simple,Main_dominante,31,5,18,77,oneplus 5 
+47,845,3,2,Simple,Main_dominante,30,2,14,76,oneplus 5 
+47,846,3,2,Simple,Main_dominante,28,3,13,69,oneplus 5 
+50,883,1,1,Simple,Main_dominante,24,2,14,72,Oppo A74
+50,884,1,1,Simple,Main_dominante,20,0,12,64,Oppo A74
+50,885,1,1,Simple,Main_dominante,21,1,11,56,Oppo A74
+50,886,1,2,Simple,Deux_mains,33,2,21,74,Oppo A74
+50,887,1,2,Simple,Deux_mains,31,2,18,86,Oppo A74
+50,888,1,2,Simple,Deux_mains,28,1,17,80,Oppo A74
+50,889,2,1,Gesture_Gboard,Main_dominante,12,0,8,40,Oppo A74
+50,890,2,1,Gesture_Gboard,Main_dominante,18,1,7,49,Oppo A74
+50,891,2,1,Gesture_Gboard,Main_dominante,15,1,9,31,Oppo A74
+50,892,2,2,Gesture_Gboard,Deux_mains,14,3,6,30,Oppo A74
+50,893,2,2,Gesture_Gboard,Deux_mains,17,2,7,34,Oppo A74
+50,894,2,2,Gesture_Gboard,Deux_mains,12,2,6,37,Oppo A74
+50,895,3,1,Predictive_Gboard,Main_dominante,17,2,12,50,Oppo A74
+50,896,3,1,Predictive_Gboard,Main_dominante,14,3,10,45,Oppo A74
+50,897,3,1,Predictive_Gboard,Main_dominante,13,2,9,51,Oppo A74
+50,898,3,2,Predictive_Gboard,Deux_mains,19,1,7,50,Oppo A74
+50,899,3,2,Predictive_Gboard,Deux_mains,24,3,8,55,Oppo A74
+50,900,3,2,Predictive_Gboard,Deux_mains,24,1,9,56,Oppo A74
+51,901,1,1,Simple,Main_dominante,12,0,8,42,Oppo A74
+51,902,1,1,Simple,Main_dominante,20,1,11,38,Oppo A74
+51,903,1,1,Simple,Main_dominante,22,2,12,41,Oppo A74
+51,904,1,2,Simple,Deux_mains,28,1,15,43,Oppo A74
+51,905,1,2,Simple,Deux_mains,29,1,7,50,Oppo A74
+51,906,1,2,Simple,Deux_mains,28,3,8,41,Oppo A74
+51,907,2,1,Gesture_Gboard,Main_dominante,36,1,24,93,Oppo A74
+51,908,2,1,Gesture_Gboard,Main_dominante,20,2,16,70,Oppo A74
+51,909,2,1,Gesture_Gboard,Main_dominante,26,1,15,74,Oppo A74
+51,910,2,2,Gesture_Gboard,Deux_mains,15,1,10,21,Oppo A74
+51,911,2,2,Gesture_Gboard,Deux_mains,10,2,5,15,Oppo A74
+51,912,2,2,Gesture_Gboard,Deux_mains,18,2,9,29,Oppo A74
+51,913,3,1,Predictive_Gboard,Main_dominante,13,2,9,40,Oppo A74
+51,914,3,1,Predictive_Gboard,Main_dominante,19,3,11,36,Oppo A74
+51,915,3,1,Predictive_Gboard,Main_dominante,22,1,10,38,Oppo A74
+51,916,3,2,Predictive_Gboard,Deux_mains,20,2,10,50,Oppo A74
+51,917,3,2,Predictive_Gboard,Deux_mains,25,3,11,53,Oppo A74
+51,918,3,2,Predictive_Gboard,Deux_mains,26,2,13,51,Oppo A74
+52,919,1,1,Simple,Main_dominante,23,2,13,57,Redmi 8A
+52,920,1,1,Simple,Main_dominante,23,0,12,61,Redmi 8A
+52,921,1,1,Simple,Main_dominante,21,0,12,52,Redmi 8A
+52,922,1,2,Simple,Deux_mains,23,4,8,57,Redmi 8A
+52,923,1,2,Simple,Deux_mains,36,1,23,89,Redmi 8A
+52,924,1,2,Simple,Deux_mains,37,1,21,93,Redmi 8A
+52,925,2,1,Gesture_Gboard,Main_dominante,13,2,9,33,Redmi 8A
+52,926,2,1,Gesture_Gboard,Main_dominante,20,1,11,51,Redmi 8A
+52,927,2,1,Gesture_Gboard,Main_dominante,16,1,8,40,Redmi 8A
+52,928,2,2,Gesture_Gboard,Deux_mains,20,2,12,49,Redmi 8A
+52,929,2,2,Gesture_Gboard,Deux_mains,14,2,6,34,Redmi 8A
+52,930,2,2,Gesture_Gboard,Deux_mains,17,3,6,42,Redmi 8A
+52,931,3,1,Predictive_Gboard,Main_dominante,24,3,11,59,Redmi 8A
+52,932,3,1,Predictive_Gboard,Main_dominante,22,5,12,56,Redmi 8A
+52,933,3,1,Predictive_Gboard,Main_dominante,22,7,14,53,Redmi 8A
+52,934,3,2,Predictive_Gboard,Deux_mains,38,2,20,95,Redmi 8A
+52,935,3,2,Predictive_Gboard,Deux_mains,40,6,22,99,Redmi 8A
+52,936,3,2,Predictive_Gboard,Deux_mains,42,5,20,106,Redmi 8A
+54,918,1,1,Gesture_Gboard,Deux_mains,20,2,15,49,Oneplus 6
+54,919,1,1,Gesture_Gboard,Deux_mains,25,1,13,62,Oneplus 6
+54,920,1,1,Gesture_Gboard,Deux_mains,24,1,11,61,Oneplus 6
+54,921,1,2,Gesture_Gboard,Main_dominante,24,1,14,60,Oneplus 6
+54,922,1,2,Gesture_Gboard,Main_dominante,20,1,12,49,Oneplus 6
+54,923,1,2,Gesture_Gboard,Main_dominante,20,1,7,50,Oneplus 6
+54,924,2,1,Predictive_Gboard,Deux_mains,32,1,14,81,Oneplus 6
+54,925,2,1,Predictive_Gboard,Deux_mains,34,2,16,85,Oneplus 6
+54,926,2,1,Predictive_Gboard,Deux_mains,38,1,20,95,Oneplus 6
+54,927,2,2,Predictive_Gboard,Main_dominante,25,1,18,62,Oneplus 6
+54,928,2,2,Predictive_Gboard,Main_dominante,26,3,14,66,Oneplus 6
+54,929,2,2,Predictive_Gboard,Main_dominante,24,2,14,61,Oneplus 6
+54,930,3,1,Simple,Deux_mains,20,3,8,47,Oneplus 6
+54,931,3,1,Simple,Deux_mains,18,4,7,40,Oneplus 6
+54,932,3,1,Simple,Deux_mains,18,4,6,42,Oneplus 6
+54,933,3,2,Simple,Main_dominante,16,3,9,39,Oneplus 6
+54,934,3,2,Simple,Main_dominante,20,2,10,46,Oneplus 6
+54,935,3,2,Simple,Main_dominante,17,3,9,41,Oneplus 6
+60,1026,1,1,Simple,Main_dominante,24,0,16,59,Redmi note 9
+60,1027,1,1,Simple,Main_dominante,18,3,11,44,Redmi note 9
+60,1028,1,1,Simple,Main_dominante,18,4,9,46,Redmi note 9
+60,1029,1,2,Simple,Deux_mains,28,2,15,70,Redmi note 9
+60,1030,1,2,Simple,Deux_mains,24,3,17,60,Redmi note 9
+60,1031,1,2,Simple,Deux_mains,22,3,14,54,Redmi note 9
+60,1032,2,1,Predictive_Gboard,Main_dominante,21,4,12,52,Redmi note 9
+60,1033,2,1,Predictive_Gboard,Main_dominante,18,4,13,44,Redmi note 9
+60,1034,2,1,Predictive_Gboard,Main_dominante,24,2,11,59,Redmi note 9
+60,1035,2,2,Predictive_Gboard,Deux_mains,21,5,12,52,Redmi note 9
+60,1036,2,2,Predictive_Gboard,Deux_mains,18,4,12,46,Redmi note 9
+60,1037,2,2,Predictive_Gboard,Deux_mains,22,4,11,56,Redmi note 9
+60,1038,3,1,Gesture_Gboard,Main_dominante,11,1,7,28,Redmi note 9
+60,1039,3,1,Gesture_Gboard,Main_dominante,17,1,10,42,Redmi note 9
+60,1040,3,1,Gesture_Gboard,Main_dominante,22,1,12,56,Redmi note 9
+60,1041,3,2,Gesture_Gboard,Deux_mains,20,1,11,51,Redmi note 9
+60,1042,3,2,Gesture_Gboard,Deux_mains,12,3,5,31,Redmi note 9
+60,1043,3,2,Gesture_Gboard,Deux_mains,15,4,10,37,Redmi note 9
